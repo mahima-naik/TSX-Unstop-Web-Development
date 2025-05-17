@@ -1,0 +1,41 @@
+/* topic 1*/
+h1 {
+    color: rgb(61, 61, 113);
+  }
+  
+  p {
+    font-size: 18px;
+  }
+/*topic 2*/
+/* Header and Nav */
+header {
+    background-color: #7291a2;
+    color: white;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* Main and Article */
+  main {
+    margin: 20px;
+  }
+  
+  article {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
